@@ -1,0 +1,20 @@
+	<Category> Motorcycle
+		vg7_scorpion,           			V,  	280000, 140000
+		vg7_scorpion_easyrider,           	V,  	300000, 150000
+		vg7_scorpion_radiator,				*,		5000,	2500
+		vg7_scorpion_wheel_front,			*,		5000,	2500
+		vg7_scorpion_wheel_rear,			*,		5000,	2500
+		vg7_scorpion_drybag,				*,		3000,	1500
+		vg7_scorpion_jacket,				*,		800,	150
+		vg7_scorpion_jacket,				*,		500,	150
+		vg7_scorpion_plate_blackouts,			*,		500, 300
+		vg7_scorpion_plate_mexico,			*,		500, 300
+		vg7_scorpion_plate_india,			*,		500, 300
+		vg7_scorpion_plate_usa,			*,		500, 300
+		vg7_scorpion_plate_canada,			*,		500, 300
+		vg7_scorpion_plate_british,			*,		500, 300
+		vg7_scorpion_plate_china,			*,		500, 300
+		vg7_scorpion_plate_russia,			*,		500, 300
+		vg7_scorpion_plate_skull,			*,		500, 300
+		vg7_scorpion_plate_australia,			*,		500, 300
+		vg7_scorpion_plate_czechoslovakia,			*,		500, 300

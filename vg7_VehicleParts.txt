@@ -1,0 +1,19 @@
+<VehicleParts> vg7_scorpion	
+	vg7_scorpion_radiator
+	CarBattery
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_plate_blackouts
+
+<VehicleParts> vg7_scorpion_easyrider	
+	vg7_scorpion_radiator
+	CarBattery
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_front
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_wheel_rear
+	vg7_scorpion_plate_usa
+
+
